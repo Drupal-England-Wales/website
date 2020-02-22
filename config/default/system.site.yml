@@ -1,0 +1,14 @@
+uuid: 6407d878-ea46-440d-b524-6c7b0b2a5b60
+name: 'Drupal England & Wales Association'
+mail: drupal@localhost
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
